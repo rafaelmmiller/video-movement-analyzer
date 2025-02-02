@@ -23,6 +23,13 @@ git clone https://github.com/rafaelmmiller/video-movement-analyzer.git
 pip install -r requirements.txt
 ```
 
+3. Add .mp4 videos to the `input/` directory
+
+4. Run the analyzer:
+```bash
+python video_analyzer.py
+```
+
 ## Project Structure
 ```
 video-movement-analyzer/

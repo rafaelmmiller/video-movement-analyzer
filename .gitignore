@@ -51,6 +51,4 @@ local_settings.py
 *.db
 *.sqlite3
 
-yolov8n.pt
-
 .DS_Store
